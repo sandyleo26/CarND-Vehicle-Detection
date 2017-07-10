@@ -121,3 +121,4 @@ Down below shows the heatmap from a series of frames of video, the result of `sc
 * the model's likely overfitting. The reason being too many features compared with data. Possible improvements inlcuding manually split train and test data to deal with time series issue; and to use more data (e.g. udacity's annoated data)
 * improve speed of detection. Currently, it takes about 15 min to process 1261 frames in the project video. Needs to identify which part takes the most time (likely to be sliding window process) and optmize it to be near real time
 * explore CNN based detection method (e.g. YOLO, darknet?)
+* there are 1 or 2 frames in which the bounding boxes disappear suddenly. Needs to find out why (model issue or smoothing algorithm issue).
