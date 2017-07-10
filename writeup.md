@@ -29,6 +29,7 @@ The goals / steps of this project are the following:
     * writeup.md
     * P5_Vehicle_Detection.ipynb
     * project_video_processed.mp4
+    * P5_Vehicle_Detection.html
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.
 
